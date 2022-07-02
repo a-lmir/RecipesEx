@@ -1,0 +1,22 @@
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+article{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    max-width: 30%;
+}
+
+ul{
+    width: 30%;
+
+}
